@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117085263262",
+    "project_id": "drench-99fd1",
+    "storage_bucket": "drench-99fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117085263262:android:4e0039eee956ed9f0f728f",
+        "android_client_info": {
+          "package_name": "hu.ait.drench"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117085263262-jdef5p743c77t7oeojebn5iv9e46662b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmHfymI6OQiujqHOU5lGSaWy-6Al6x1mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117085263262-jdef5p743c77t7oeojebn5iv9e46662b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

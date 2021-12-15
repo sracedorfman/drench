@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuItemLeaderboard"
+        android:title="Leaderboard" />
+    <item
+        android:id="@+id/menuItemHighScore"
+        android:title="My High Score" />
+    <item
+        android:id="@+id/menuItemLogin"
+        android:title="Log in" />
+</menu>
